@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Dockerfile" />
+  </Folder>
+  <Project Path="AppointmentsApi.Api/AppointmentsApi.Api.csproj" />
+  <Project Path="AppointmentsApi.Application/AppointmentsApi.Application.csproj" />
+  <Project Path="AppointmentsApi.Domain/AppointmentsApi.Domain.csproj" />
+  <Project Path="AppointmentsApi.Infrastructure/AppointmentsApi.Infrastructure.csproj" />
+</Solution>
